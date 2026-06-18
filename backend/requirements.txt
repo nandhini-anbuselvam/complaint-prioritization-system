@@ -1,0 +1,8 @@
+Django==5.2.5
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.8.0
+scikit-learn==1.7.2
+joblib==1.5.1
+numpy==2.2.6
+scipy==1.15.3
